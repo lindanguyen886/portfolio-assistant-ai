@@ -139,6 +139,11 @@ python3 -m streamlit run app.py --server.port 8502
 - Automated report export (PDF/Markdown)
 
 ---
+## 👩‍💻 Author
+
+Huong Thao (Linda) Nguyen  
+M.M. Data Analytics | Applied AI & Decision-Focused Data Science  
+Ontario, Canada
 
 If this project helps, consider starring the repo:  
 `https://github.com/lindanguyen886/portfolio-assistant-ai`
