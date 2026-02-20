@@ -1,0 +1,8 @@
+{
+    "income": [{
+        "ticker": "SAFE.TO",
+        "amount": 0.06,
+        "type": "dividend",
+        "date": "2026-02-06"
+    }]
+}

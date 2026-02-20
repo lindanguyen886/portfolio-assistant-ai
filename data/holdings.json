@@ -1,0 +1,13 @@
+[{
+        "ticker": "SAFE.TO",
+        "shares": 1,
+        "buy_price": 23.49,
+        "buy_date": "2026-01-15"
+    },
+    {
+        "ticker": "XIU.TO",
+        "shares": 1,
+        "buy_price": 48.53,
+        "buy_date": "2026-01-15"
+    }
+]
