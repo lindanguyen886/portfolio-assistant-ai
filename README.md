@@ -19,10 +19,10 @@ Target profile:
 - Style: balanced ETF + stocks
 
 Preferred mix:
-- Liquidity: `SAFE.TO`
-- Bonds: `XBB.TO` (and peers)
-- Canadian broad equity: `VCN.TO`
-- Canadian dividend stocks: `ENB.TO`, `TD.TO`
+- Liquidity
+- Bonds
+- Canadian broad equity
+- Canadian dividend stocks
 
 ## Core Features
 
