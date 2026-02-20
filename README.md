@@ -1,4 +1,5 @@
 # Portfolio Assistant AI Agent
+![AI Hedge Fund Brain Architecture](assets/architecture.png)
 
 An AI-powered portfolio assistant for conservative-to-moderate investors with a short-to-medium horizon (1-5 years).
 
