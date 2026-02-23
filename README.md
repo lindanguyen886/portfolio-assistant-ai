@@ -127,7 +127,7 @@ python3 -m streamlit run app.py --server.port 8502
 
 ## Notes
 
-- This tool is for educational/research purposes, not financial advice.
+- This tool is for personal investment purposes, not a commercial agent or built for business operations.
 - Market-data calls may fail if network access is unavailable.
 - Keep `.env` private and never commit secrets.
 
